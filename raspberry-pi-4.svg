@@ -108,7 +108,8 @@
        height="78.450813"
        x="41.672298"
        y="62.836689"
-       rx="2.986308e-17" />
+       rx="4.115953"
+       ry="4.1159515" />
     <rect
        style="fill:#cccccc;fill-opacity:1;stroke-width:0.279212"
        id="rect853"
@@ -334,7 +335,7 @@
     </g>
     <g
        id="g218-6"
-       transform="translate(-5.556251,-110.06667)">
+       transform="translate(-5.556251,-110.93792)">
       <ellipse
          style="fill:#dae32a;fill-opacity:1;stroke-width:0.251008"
          id="path950-5-7-5"
@@ -353,7 +354,7 @@
     </g>
     <g
        id="g218-8"
-       transform="translate(79.110416,-110.33125)">
+       transform="translate(79.110416,-110.51834)">
       <ellipse
          style="fill:#dae32a;fill-opacity:1;stroke-width:0.251008"
          id="path950-5-7-1"
